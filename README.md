@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pinterest.com/pin/jotaro-kujo-icon--17170042322802803/" alt="JoJo Style" width="200" height="250" style="border-radius: 50%;"/>
+<img src="[pinterest.com/pin/jotaro-kujo-icon--17170042322802803/](https://i.pinimg.com/736x/7b/f1/15/7bf115a55ed97e07eba3a98b2c870b34.jpg)" alt="JoJo Style" width="200" height="250" style="border-radius: 50%;"/>
 
 # Привет! Я **riet9**  
 **Python | PL/SQL | Автоматизация**  
