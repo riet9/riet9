@@ -38,5 +38,5 @@
 </div>
 
 <div align="center">
-[![Поддержи Riet9 ❤️](https://img.shields.io/badge/Patreon-Riet9-FF424D?style=for-the-badge&logo=patreon&logoColor=white&labelColor=21262D)](https://patreon.com/riet9)
+[![Riet9 ❤️](https://img.shields.io/badge/Riet9-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/riet9)
 </div>
