@@ -1,31 +1,38 @@
 <div align="center">
 
-# Привет! Я riet9  
+<img src="https://raw.githubusercontent.com/riet9/riet9/main/image.jpg" alt="JoJo Style" width="200" height="250" style="border-radius: 50%;"/>
+
+# Привет! Я **riet9**  
 **Python | PL/SQL | Автоматизация**  
-Создаю ботов, трекеры и скрипты, которые работают сами.  
-[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/riet9)  
+Создаю ботов, трекеры и скрипты, которые работают сами 😎  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=riet9+кодит+ботов;Автоматизация+решает+всё;Поддержи+на+Patreon!" alt="Typing SVG" />
+[![Patreon](https://img.shields.io/badge/Support-Riet9-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/riet9)  
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riet9)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Yare+yare...+daze;riet9+кодит+ботов;Автоматизация+решает+всё" alt="Typing SVG" />
 
 </div>
 
-### 📊 GitHub Stats
+### 🏆 Trophies & Stats (анти-баг версия)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riet9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=riet9&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
 </div>
 
-### 🔥 Стрик и топ-репо
+### 🔥 Стрик и ключевые репо
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riet9&theme=dark" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=dark" /> <!-- Твоё репо -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riet9&theme=gruvbox&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true" />
 </div>
 
-## 🛠️ Стек
+## 🛠️ Tech Stack
 <div align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  ![PL/SQL](https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
+  ![Automation](https://img.shields.io/badge/Automation-Scripts-00FF00?style=for-the-badge&logoColor=white)
 </div>
 
-📫 Patreon: riet9  
+<div align="center">
+  <b>Поддержи проект →</b> <a href="https://patreon.com/riet9">Patreon: riet9</a> ⭐
+</div>
