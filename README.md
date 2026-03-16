@@ -27,12 +27,17 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PL/SQL](https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
-  ![Automation](https://img.shields.io/badge/Automation-Scripts-00FF00?style=for-the-badge&logoColor=white)
+<table>
+<tr>
+<td><code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code></td>
+<td><code><img src="https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></code></td>
+<td><code><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></code></td>
+<td><code><img src="https://img.shields.io/badge/Automation-00FF00?style=for-the-badge&logoColor=white" /></code></td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <b>Поддержи проект →</b> <a href="https://patreon.com/riet9">Patreon: riet9</a> ⭐
+<strong>💝 Поддержи проект:</strong><br>
+[![Patreon Riet9](https://img.shields.io/badge/Patreon-Riet9-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/riet9)
 </div>
