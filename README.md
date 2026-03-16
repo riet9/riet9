@@ -38,6 +38,5 @@
 </div>
 
 <div align="center">
-<strong>💝 Поддержи проект:</strong><br>
-[![Patreon Riet9](https://img.shields.io/badge/Patreon-Riet9-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/riet9)
+[![Поддержи Riet9 ❤️](https://img.shields.io/badge/Patreon-Riet9-FF424D?style=for-the-badge&logo=patreon&logoColor=white&labelColor=21262D)](https://patreon.com/riet9)
 </div>
