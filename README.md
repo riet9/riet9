@@ -1,97 +1,116 @@
 <div align="center">
 
-# 👋 Hi / Привет
+# 👋 riet9
 
-[🇬🇧 English](#-english) | [🇷🇺 Русский](#-russian)
+**Python • PL/SQL • Automation**
 
-</div>
+Bots. Trackers. Systems that run without you.
 
----
+<br>
 
-# 🇬🇧 English
+[🇬🇧 English](#-english) • [🇷🇺 Русский](#-russian)
 
-<div align="center">
+<br>
 
-# Hi! I'm **riet9**
-**Python | PL/SQL | Automation**  
-I build bots, trackers, and scripts that work on their own 😎
+[![Telegram](https://img.shields.io/badge/Telegram-riet9-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riet9)
+[![Patreon](https://img.shields.io/badge/Support-Patreon-orange?style=for-the-badge&logo=patreon)](https://patreon.com/riet9)
 
-[![Patreon](https://img.shields.io/badge/Patreon-support-orange?style=for-the-badge&logo=patreon)](https://patreon.com/riet9)
-[![Telegram](https://img.shields.io/badge/Telegram-contact-blue?style=for-the-badge&logo=telegram)](https://t.me/riet9)
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Yare+yare...+daze;riet9+builds+bots;Automation+solves+everything" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00FF00&center=true&vCenter=true&width=500&lines=Yare+yare...+daze;Building+automation;Code+that+works+for+you" />
 
 </div>
 
 ---
 
-### 🏆 Trophies & Stats
+## 🇬🇧 English
+
+### 🧠 About
+I design and build automation systems, bots, and tools that reduce manual work and scale processes.
+
+---
+
+### 📊 Stats
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=riet9&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=riet9&show_icons=true&theme=gruvbox&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🔥 Streak & Featured Repo
+### 🔥 Activity
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riet9&theme=gruvbox&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Featured Project
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
+
+</div>
+
+---
+
+### 🛠 Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-00FF00?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🇷🇺 Russian
+## 🇷🇺 Русский
 
+### 🧠 О себе
+Создаю системы автоматизации, ботов и инструменты, которые уменьшают ручную работу и масштабируют процессы.
+
+---
+
+### 📊 Статистика
 <div align="center">
 
-# Привет! Я **riet9**
-**Python | PL/SQL | Автоматизация**  
-Создаю ботов, трекеры и скрипты, которые работают сами 😎
-
-[![Patreon](https://img.shields.io/badge/Patreon-support-orange?style=for-the-badge&logo=patreon)](https://patreon.com/riet9)
-[![Telegram](https://img.shields.io/badge/Telegram-contact-blue?style=for-the-badge&logo=telegram)](https://t.me/riet9)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Yare+yare...+daze;riet9+кодит+ботов;Автоматизация+решает+всё" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=riet9&show_icons=true&theme=gruvbox&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🏆 Трофеи и статистика
+### 🔥 Активность
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=riet9&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
-</div>
 
----
-
-### 🔥 Стрик и репозиторий
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riet9&theme=gruvbox&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🛠️ Технологии
+### 🚀 Проект
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
+
+</div>
+
+---
+
+### 🛠 Технологии
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-00FF00?style=for-the-badge)
 
 </div>
@@ -100,6 +119,6 @@ I build bots, trackers, and scripts that work on their own 😎
 
 <div align="center">
 
-⭐ Thanks for visiting / Спасибо за визит
+⭐ Thanks for visiting
 
 </div>
