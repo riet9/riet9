@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 riet9
+# riet9
 
 **Python • PL/SQL • Automation**
 
@@ -22,15 +22,14 @@ Bots. Trackers. Systems that run without you.
 </div>
 
 ---
+ 🇬🇧 English
 
-## 🇬🇧 English
-
-### 🧠 About
+### About
 I design and build automation systems, bots, and tools that reduce manual work and scale processes.
 
 ---
 
-### 📊 Stats
+### Stats
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=riet9&show_icons=true&theme=gruvbox&hide_border=true"/>
@@ -40,7 +39,7 @@ I design and build automation systems, bots, and tools that reduce manual work a
 
 ---
 
-### 🔥 Activity
+### Activity
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riet9&theme=gruvbox&hide_border=true"/>
@@ -49,7 +48,7 @@ I design and build automation systems, bots, and tools that reduce manual work a
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
@@ -70,14 +69,14 @@ I design and build automation systems, bots, and tools that reduce manual work a
 
 ---
 
-## 🇷🇺 Русский
+🇷🇺 Русский
 
-### 🧠 О себе
+### О себе
 Создаю системы автоматизации, ботов и инструменты, которые уменьшают ручную работу и масштабируют процессы.
 
 ---
 
-### 📊 Статистика
+### Статистика
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=riet9&show_icons=true&theme=gruvbox&hide_border=true"/>
@@ -87,7 +86,7 @@ I design and build automation systems, bots, and tools that reduce manual work a
 
 ---
 
-### 🔥 Активность
+### Активность
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riet9&theme=gruvbox&hide_border=true"/>
@@ -96,7 +95,7 @@ I design and build automation systems, bots, and tools that reduce manual work a
 
 ---
 
-### 🚀 Проект
+### Проект
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
