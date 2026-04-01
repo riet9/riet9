@@ -29,12 +29,59 @@ Most of my projects start from a simple problem I want to solve.
 
 ## Highlighted Projects
 
-| Project | Description |
-|-------|-------------|
-| 🧠 **[control](https://github.com/riet9/control)** | Windows screen-time tracker with productivity analytics and focus blocking. |
-| 🌙 **[SleepyNight](https://github.com/riet9/SleepyNight)** | Bedtime enforcement tool with automatic shutdown and watchdog protection. |
-| 🎮 **[royale_lab](https://github.com/riet9/royale_lab)** | Experimental lab for Clash Royale automation and computer vision. |
-| 🚫 **[no-game-tracker](https://github.com/riet9/no-game-tracker)** | Background tracker with Telegram alerts and gaming activity history. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### control
+Screen-time tracker with productivity analytics.
+
+**Tech:**  
+`PowerShell` `Windows`
+
+<a href="https://github.com/riet9/control">Open repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### SleepyNight
+Bedtime enforcement system with auto shutdown.
+
+**Tech:**  
+`C#` `WinForms`
+
+<a href="https://github.com/riet9/SleepyNight">Open repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### royale_lab
+Clash Royale automation & computer vision experiments.
+
+**Tech:**  
+`Python` `OpenCV`
+
+<a href="https://github.com/riet9/royale_lab">Open repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### no-game-tracker
+Game activity tracker with Telegram alerts.
+
+**Tech:**  
+`Python` `SQLite`
+
+<a href="https://github.com/riet9/no-game-tracker">Open repository →</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
