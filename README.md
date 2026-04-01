@@ -2,66 +2,47 @@
 
 # riet9
 
-### Automation • Bots • Systems
+### Data Analyst • Software Developer • Automation
 
-Code that replaces manual work.
-
-<br>
-
-[![Telegram](https://img.shields.io/badge/Telegram-riet9-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riet9)
-[![Support](https://img.shields.io/badge/Support-Patreon-orange?style=for-the-badge&logo=patreon)](https://patreon.com/riet9)
+Building systems, tools and ideas.
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00FF00&center=true&vCenter=true&width=500&lines=Building+automation;Bots+and+systems;Code+that+works+for+you" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Analytics;Automation+Systems;Building+Ideas;Continuous+Self+Improvement" />
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=riet9&color=brightgreen&style=for-the-badge)
 
 </div>
 
 ---
 
-# 👨‍💻 About
+# 🧠 About
 
-I design and build **automation systems, bots and tools** that reduce manual work and scale processes.
+I explore ideas and build tools that combine **data analysis, automation and software development**.
 
-Focus areas:
+My focus:
 
-- Automation systems
-- Telegram bots
-- Data processing
-- Process optimization
-- Backend scripting
+• data analysis  
+• automation systems  
+• building useful tools  
+• experimenting with ideas  
+• continuous self-improvement
 
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=gruvbox&hide_border=true"/>
-
-</div>
+I enjoy turning **simple ideas into working systems**.
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 What I'm Building
 
-<div align="center">
+Projects and experiments in:
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=riet9&show_icons=true&theme=gruvbox&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=riet9&theme=gruvbox&hide_border=true"/>
-
-</div>
+• data analytics  
+• automation tools  
+• tracking systems  
+• productivity tools  
+• backend scripts
 
 ---
 
@@ -71,26 +52,37 @@ Focus areas:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![SQL](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![PLSQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 ![Automation](https://img.shields.io/badge/Automation-00FF00?style=for-the-badge)
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🧠 What I Build
+# 📊 GitHub Stats
 
-Examples of systems I work on:
+<div align="center">
 
-- automation bots
-- trackers
-- monitoring tools
-- backend scripts
-- data parsers
-- process automation pipelines
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riet9&show_icons=true&theme=gruvbox&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riet9&layout=compact&theme=gruvbox&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=riet9&theme=gruvbox&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -104,13 +96,12 @@ Examples of systems I work on:
 
 ---
 
-# 👀 Profile Views
+# 💡 Philosophy
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=riet9&color=brightgreen&style=for-the-badge)
-
-</div>
+Build things.  
+Test ideas.  
+Improve systems.  
+Keep learning.
 
 ---
 
