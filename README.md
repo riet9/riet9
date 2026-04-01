@@ -29,73 +29,12 @@ Most of my projects start from a simple problem I want to solve.
 
 ## Highlighted Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### control  
-Windows screen-time tracker for study-focused limits and productivity analytics.
-
-**Stack:** PowerShell • Windows APIs  
-**Features:**  
-- app/site classification  
-- daily limits  
-- focus blocking  
-- productivity reports  
-
-[View project](https://github.com/riet9/control)
-
-</td>
-
-<td width="50%">
-
-### SleepyNight  
-Windows bedtime enforcement system with automatic shutdown and watchdog.
-
-**Stack:** C# • Windows Forms  
-**Features:**  
-- bedtime monitoring  
-- auto shutdown  
-- watchdog protection  
-
-[View project](https://github.com/riet9/SleepyNight)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### royale_lab  
-Experimental environment for Clash Royale automation and computer vision.
-
-**Stack:** Python • Emulator automation  
-**Features:**  
-- dataset tooling  
-- tactical testing  
-- bot experiments  
-
-[View project](https://github.com/riet9/royale_lab)
-
-</td>
-
-<td width="50%">
-
-### no-game-tracker  
-Background tracker that monitors gaming activity and sends alerts.
-
-**Stack:** Python • SQLite • Telegram API  
-**Features:**  
-- Telegram alerts  
-- activity history  
-- foreground/background tracking  
-
-[View project](https://github.com/riet9/no-game-tracker)
-
-</td>
-</tr>
-</table>
-
+| Project | Description |
+|-------|-------------|
+| 🧠 **[control](https://github.com/riet9/control)** | Windows screen-time tracker with productivity analytics and focus blocking. |
+| 🌙 **[SleepyNight](https://github.com/riet9/SleepyNight)** | Bedtime enforcement tool with automatic shutdown and watchdog protection. |
+| 🎮 **[royale_lab](https://github.com/riet9/royale_lab)** | Experimental lab for Clash Royale automation and computer vision. |
+| 🚫 **[no-game-tracker](https://github.com/riet9/no-game-tracker)** | Background tracker with Telegram alerts and gaming activity history. |
 </div>
 
 ---
