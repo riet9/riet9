@@ -29,23 +29,72 @@ Most of my projects start from a simple problem I want to solve.
 
 ## Highlighted Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/riet9/control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=control&theme=tokyonight&hide_border=true">
-</a>
+### control  
+Windows screen-time tracker for study-focused limits and productivity analytics.
 
-<a href="https://github.com/riet9/SleepyNight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=SleepyNight&theme=tokyonight&hide_border=true">
-</a>
+**Stack:** PowerShell • Windows APIs  
+**Features:**  
+- app/site classification  
+- daily limits  
+- focus blocking  
+- productivity reports  
 
-<a href="https://github.com/riet9/no-game-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=no-game-tracker&theme=tokyonight&hide_border=true">
-</a>
+[View project](https://github.com/riet9/control)
 
-<a href="https://github.com/riet9/royale_lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riet9&repo=royale_lab&theme=tokyonight&hide_border=true">
-</a>
+</td>
+
+<td width="50%">
+
+### SleepyNight  
+Windows bedtime enforcement system with automatic shutdown and watchdog.
+
+**Stack:** C# • Windows Forms  
+**Features:**  
+- bedtime monitoring  
+- auto shutdown  
+- watchdog protection  
+
+[View project](https://github.com/riet9/SleepyNight)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### royale_lab  
+Experimental environment for Clash Royale automation and computer vision.
+
+**Stack:** Python • Emulator automation  
+**Features:**  
+- dataset tooling  
+- tactical testing  
+- bot experiments  
+
+[View project](https://github.com/riet9/royale_lab)
+
+</td>
+
+<td width="50%">
+
+### no-game-tracker  
+Background tracker that monitors gaming activity and sends alerts.
+
+**Stack:** Python • SQLite • Telegram API  
+**Features:**  
+- Telegram alerts  
+- activity history  
+- foreground/background tracking  
+
+[View project](https://github.com/riet9/no-game-tracker)
+
+</td>
+</tr>
+</table>
 
 </div>
 
