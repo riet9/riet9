@@ -10,15 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: riet9
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          add: "dist"
+          message: "update snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
