@@ -103,7 +103,7 @@ Most of my projects start from a simple problem I want to solve.
 
 ## Contributions
 
-![snake gif](https://github.com/riet9/riet9/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/riet9/riet9/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
