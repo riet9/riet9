@@ -90,7 +90,7 @@ Game activity tracker with Telegram alerts.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,r,github,cs,vscode,unity"/>
 
 </div>
 
